@@ -28,7 +28,9 @@ gold, wheat, fartcoin (a ďalšie kryptomeny/altcoiny).
 An email, a LinkedIn post, a DM, a doc — anything that sounds like you when you're not trying. **Paste verbatim.** Do not type these mid-conversation with Claude — chat-shaped samples are worse than no samples (voice contamination).
 
 ```
-[Sample 1 — paste raw]
+[DEFERRED — no raw writing sample supplied yet during onboarding. Add a real
+pasted sample (WhatsApp/Telegram message, Discord post, trade journal note)
+here and re-run /onboard to fill references/voice.md.]
 ```
 
 ```
