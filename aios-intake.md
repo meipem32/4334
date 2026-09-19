@@ -11,7 +11,11 @@ This is the source-of-truth file for your AIOS. Fill it in by typing, voice-past
 Identity, offer, ICP. One paragraph each is fine.
 
 ```
-[Your answer here]
+Som trader. Obchodujem na XTB s komoditami a kryptomenami. Čakám na najvhodnejšiu
+chvíľu, kedy kúpiť alebo shortnúť obchod (buy-the-dip prístup). Veľmi ma zaujíma
+sledovanie grafov, rezistencie, range, sviečky (technická analýza). Robím to pre
+seba a svojich blízkych — nie ako klientsky biznis, skôr osobné/rodinné trading
+rozhodnutia.
 ```
 
 ---
