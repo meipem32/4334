@@ -16,6 +16,9 @@ chvíľu, kedy kúpiť alebo shortnúť obchod (buy-the-dip prístup). Veľmi ma
 sledovanie grafov, rezistencie, range, sviečky (technická analýza). Robím to pre
 seba a svojich blízkych — nie ako klientsky biznis, skôr osobné/rodinné trading
 rozhodnutia.
+
+Sledované/obchodované aktíva (watchlist): natural gas (US aj EU kontrakt), silver,
+gold, wheat, fartcoin (a ďalšie kryptomeny/altcoiny).
 ```
 
 ---
